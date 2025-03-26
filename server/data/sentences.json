@@ -1,0 +1,53 @@
+{
+    "farFrom": [
+      { "ko": "그 영화는 전혀 지루하지 않았어.", "en": "The movie was far from boring." },
+      { "ko": "그의 설명은 전혀 명확하지 않았어.", "en": "His explanation was far from clear." },
+      { "ko": "오늘 날씨는 전혀 완벽하지 않아.", "en": "The weather is far from perfect today." },
+      { "ko": "그 시험은 전혀 쉽지 않았어요.", "en": "The test was far from easy." },
+      { "ko": "문제는 결코 간단하지 않습니다.", "en": "The problem is far from simple." },
+      { "ko": "그 방은 전혀 깨끗하지 않아요.", "en": "The room is far from clean." },
+      { "ko": "그 결과는 전혀 좋지 않았어요.", "en": "The result was far from good." },
+      { "ko": "그녀의 목소리는 전혀 크지 않았어요.", "en": "Her voice was far from loud." },
+      { "ko": "그 수프는 전혀 뜨겁지 않아요.", "en": "The soup is far from hot." },
+      { "ko": "그 이야기는 전혀 사실이 아니었어요.", "en": "The story was far from true." },
+      { "ko": "그 대답은 전혀 맞지 않아요.", "en": "The answer is far from correct." },
+      { "ko": "그 길은 전혀 안전하지 않았어요.", "en": "The road was far from safe." },
+      { "ko": "우리 집은 학교에서 멀어요", "en": "My house is far from the school." },
+      { "ko": "그 사람은 나와 거리가 멀어요", "en": "He is far from me." }
+    ],
+    "howLong": [
+      { "ko": "얼마나 걸려요?", "en": "How long does it take?" },
+      { "ko": "그 영화는 얼마나 길어요?", "en": "How long is the movie?" },
+      { "ko": "줄이 얼마나 길어요?", "en": "How long is the line?" },
+      { "ko": "얼마나 오래 기다렸어요?", "en": "How long did you wait?" },
+      { "ko": "너희 여름방학은 얼마나 길어?", "en": "How long is your summer vacation?" },
+      { "ko": "얼마나 걸릴까요?", "en": "How long will it take?" },
+      { "ko": "얼마나 오래 있을 수 있어요?", "en": "How long can I stay?" },
+      { "ko": "얼마나 오래 걸려?", "en": "How long does it take?" },
+      { "ko": "얼마나 오래 기다려야 해?", "en": "How long do I have to wait?" }
+    ],
+    "iWanna": [
+      { "ko": "집에 가고 싶어.", "en": "I wanna go home." },
+      { "ko": "나는 여행을 가고 싶어.", "en": "I wanna go on a trip." },
+      { "ko": "나 일 그만두고 싶어.", "en": "I wanna quit my job." },
+      { "ko": "달달한 거 먹고 싶어.", "en": "I wanna eat something sweet." },
+      { "ko": "오늘 밤 영화 보고 싶어.", "en": "I wanna watch a movie tonight." },
+      { "ko": "낮잠 좀 자고 싶어.", "en": "I wanna take a nap." },
+      { "ko": "나는 새 핸드폰을 사고 싶어.", "en": "I wanna buy a new cell phone." },
+      { "ko": "너랑 얘기 좀 하고 싶어.", "en": "I wanna talk to you." },
+      { "ko": "그 새 식당 가보고 싶어.", "en": "I wanna try that new restaurant." },
+      { "ko": "다음 달에 여행 가고 싶어.", "en": "I wanna travel next month." },
+      { "ko": "이 프로젝트 너랑 같이 하고 싶어.", "en": "I wanna work on this project with you." },
+      { "ko": "오늘 출근하기 싫어.", "en": "I don't wanna go to work today." },
+      { "ko": "과거로 돌아가고 싶지 않아.", "en": "I don't wanna go back." },
+      { "ko": "그 얘기 하고 싶지 않아.", "en": "I don't wanna talk about it." },
+      { "ko": "지금 아무것도 먹고 싶지 않아.", "en": "I don't wanna eat anything right now." },
+      { "ko": "너랑 싸우고 싶지 않아.", "en": "I don't wanna argue with you." },
+      { "ko": "버스 놓치고 싶지 않아.", "en": "I don't wanna miss the bus." },
+      { "ko": "밖에 나가고 싶지 않아.", "en": "I don't wanna go outside." },
+      { "ko": "널 실망시키고 싶지 않아.", "en": "I don't wanna disappoint you." },
+      { "ko": "이거 혼자서 하고 싶지 않아.", "en": "I don't wanna do this alone." },
+      { "ko": "시간을 낭비하고 싶지 않아.", "en": "I don't wanna waste time." }
+    ]
+  }
+  
