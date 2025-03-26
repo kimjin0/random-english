@@ -8,7 +8,7 @@
           <option value="all">전체</option>
           <option value="farFrom">far from</option>
           <option value="howLong">how long</option>
-          <option value="iWanna">i wanna</option>
+          <option value="iWanna">I wanna</option>
         </select>
 
         <button @click="generate">랜덤 문장 보기</button>
