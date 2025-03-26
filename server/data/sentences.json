@@ -48,6 +48,60 @@
       { "ko": "널 실망시키고 싶지 않아.", "en": "I don't wanna disappoint you." },
       { "ko": "이거 혼자서 하고 싶지 않아.", "en": "I don't wanna do this alone." },
       { "ko": "시간을 낭비하고 싶지 않아.", "en": "I don't wanna waste time." }
+    ],
+    "imGonna": [
+      { "en": "I'm gonna make it.", "ko": "나는 해낼 거야." },
+      { "en": "I'm gonna miss you.", "ko": "나는 당신이 그리울 거에요" },
+      { "en": "I'm gonna be okay.", "ko": "나는 괜찮을 거야" },
+      { "en": "I'm gonna check it out.", "ko": "내가 확인해 볼거야." },
+      { "en": "I'm gonna take a shower.", "ko": "나 샤워할 거야." },
+      { "en": "I'm gonna ask you some questions.", "ko": "내가 몇 가지 질문을 할게요." },
+      { "en": "I'm gonna show you something special.", "ko": "내가 특별한 걸 보여줄게." },
+      { "en": "I'm gonna go to bed early tonight.", "ko": "오늘 밤 일찍 잘 거야." },
+      { "en": "I'm gonna call you later.", "ko": "나 나중에 너한테 전화할게." },
+      { "en": "I'm gonna be late for the meeting.", "ko": "나 회의에 늦을 것 같아." },
+      { "en": "I'm gonna start working on the project tomorrow.", "ko": "내일 프로젝트 시작할 거야." },
+      { "en": "I'm gonna ask for help if I need it.", "ko": "필요하면 도움 요청할 거야." },
+      { "en": "I'm gonna clean my room this weekend.", "ko": "이번 주말에 방 청소할 거야." }
+    ],
+    "wouldYouLike": [
+      { "en": "Would you like a drink?", "ko": "마실 것 드릴까요?" },
+      { "en": "Would you like some coffee?", "ko": "커피 좀 드실래요?" },
+      { "en": "Would you like a glass of water?", "ko": "물 한 잔 드릴까요?" },
+      { "en": "Would you like some help?", "ko": "도움이 필요하세요?" },
+      { "en": "Would you like to go on?", "ko": "계속하시겠습니까?" },
+      { "en": "Would you like to try this new dish?", "ko": "이 새로운 요리를 드셔 보시겠어요?" },
+      { "en": "Would you like some dessert after your meal?", "ko": "식사 후에 디저트 드시겠어요?" },
+      { "en": "Would you like anything else?", "ko": "더 필요한 것 있으세요?" },
+      { "en": "Would you like to watch a movie with me?", "ko": "저와 함께 영화 보실래요?" },
+      { "en": "Would you like to visit our office next week?", "ko": "다음 주에 저희 사무실을 방문하시겠어요?" }
+    ],
+    "doYouWantTo": [
+      { "en": "Do you want to come?", "ko": "오고 싶어요?" },
+      { "en": "Do you want to rest?", "ko": "쉬고 싶어요?" },
+      { "en": "Do you want to eat snacks?", "ko": "간식 먹을래요?" },
+      { "en": "Do you want to grab a coffee?", "ko": "커피 한 잔 할래요?" },
+      { "en": "Do you want to go for a walk?", "ko": "산책하러 갈래요?" },
+      { "en": "Do you want to watch a movie tonight?", "ko": "오늘 밤에 영화 볼래?" },
+      { "en": "Do you want to order some food?", "ko": "음식 주문할래?" },
+      { "en": "Do you want to take a break?", "ko": "잠깐 쉬고 싶어?" },
+      { "en": "Do you want to know why?", "ko": "이유를 알고 싶어요?" },
+      { "en": "Do you want to go with me?", "ko": "나랑 같이 갈래요?" }
+    ],
+    "doYouHaveAny": [
+      { "en": "Do you have any questions?", "ko": "질문 있으신가요?" },
+      { "en": "Do you have any plans?", "ko": "계획이 있으신가요?" },
+      { "en": "Do you have any good ideas?", "ko": "좋은 아이디어 있으신가요?" },
+      { "en": "Do you have any time this afternoon?", "ko": "오늘 오후에 시간 좀 있으세요?" },
+      { "en": "Do you have any updates on the project?", "ko": "그 프로젝트 관련해서 새 소식 있나요?" },
+      { "en": "Do you have any regrets?", "ko": "후회되는 게 있나요?" },
+      { "en": "Do you have any kids?", "ko": "아이가 있으세요?" },
+      { "en": "Do you have any allergies?", "ko": "혹시 알레르기 있으세요?" },
+      { "en": "Do you have any experience?", "ko": "어떤 경험이 있나요?" },
+      { "en": "Do you have any messages for her?", "ko": "그녀에게 전할 메시지가 있나요?" },
+      { "en": "Do you have any problem with that?", "ko": "그것에 무슨 문제가 있나요?" },
+      { "en": "Do you have any rooms available tonight?", "ko": "오늘 밤 빈 방 있나요?" },
+      { "en": "Do you have any bread left?", "ko": "빵 좀 남았나요?" }
     ]
   }
   

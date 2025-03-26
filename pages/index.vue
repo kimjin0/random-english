@@ -15,6 +15,10 @@
         <option value="farFrom">far from</option>
         <option value="howLong">how long</option>
         <option value="iWanna">I wanna</option>
+        <option value="imGonna">I'm gonna</option>
+        <option value="wouldYouLike">Would you like</option>
+        <option value="doYouWantTo">Do you want to</option>
+        <option value="doYouHaveAny">Do you have any</option>
       </select>
 
       <button @click="generate">랜덤 문장 보기</button>
@@ -25,7 +29,7 @@
       <p class="timer" v-if="countdown > 0">🕒 {{ countdown }}초 안에 영어로 말해보세요!</p>
       <p class="ready" v-else>✅ 이제 정답을 확인해보세요!</p>
 
-      <button @click="showAnswer = true" :disabled="countdown > 0">👉 영어 보기</button>
+      <button @click="showAnswer = true">👉 영어 보기</button>
       <p v-if="showAnswer" class="english">
         {{ currentSentence.en }}
         <button class="replay-btn" @click="speak(currentSentence.en)">🔊</button>
@@ -39,6 +43,7 @@ import { ref } from 'vue'
 
 const selectedGroup = ref('all')
 const sentences = ref({})
+const usedSentences = ref(new Set())
 const currentSentence = ref(null)
 const countdown = ref(10)
 const showAnswer = ref(false)
@@ -69,13 +74,17 @@ function generate() {
     pool = sentences.value[selectedGroup.value] || []
   }
 
-  if (pool.length === 0) {
-    alert('선택한 그룹에 문장이 없어요!')
+  // 필터링: 이미 사용된 문장은 제외
+  const filteredPool = pool.filter(s => !usedSentences.value.has(s.ko))
+
+  if (filteredPool.length === 0) {
+    alert('선택한 그룹에 더 이상 새로운 문장이 없어요!')
     return
   }
 
-  const random = pool[Math.floor(Math.random() * pool.length)]
+  const random = filteredPool[Math.floor(Math.random() * filteredPool.length)]
   currentSentence.value = random
+  usedSentences.value.add(random.ko)
 
   timer = setInterval(() => {
     countdown.value--
@@ -102,7 +111,6 @@ function speak(text) {
   speechSynthesis.speak(utterance)
 }
 </script>
-
 <style scoped>
 .container {
   max-width: 600px;
